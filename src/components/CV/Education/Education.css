@@ -1,0 +1,12 @@
+.education {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border: 1px solid bisque;
+    div {
+        text-align: center;
+        margin: 15px auto;
+    }
+}

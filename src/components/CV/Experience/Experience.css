@@ -1,0 +1,9 @@
+.experience {
+  border: 1px solid bisque;
+  padding:15px;
+  text-align: center;
+  border: 1px solid bisque;
+  .workhead {
+    margin-bottom: 15px;
+  }
+}

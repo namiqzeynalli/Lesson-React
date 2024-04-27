@@ -1,0 +1,15 @@
+.languages {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border: 1px solid bisque;
+    .lngs {
+        text-align: center;
+        padding-top: 25px;
+        div {
+            padding-bottom: 20px;
+        }
+    }
+}
