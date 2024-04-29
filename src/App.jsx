@@ -4,6 +4,7 @@ import Product from "./components/ders2/Product";
 import Userlogin from "./components/Events/Userlogin";
 import UserCv from "./components/CV/UserCv/UserCV";
 import Profile from "./components/Profile/Profile";
+import Dice from "./components/Dice/Dice";
 
 function App() {
   return (
@@ -11,8 +12,9 @@ function App() {
       {/* <Product /> */}
       {/* <Click/> */}
       {/* <Userlogin/> */}
-      <UserCv />
+      {/* <UserCv /> */}
       {/* <Profile/> */}
+      <Dice/>
     </>
   );
 }
