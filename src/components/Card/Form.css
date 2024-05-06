@@ -1,0 +1,15 @@
+/* form {
+    background-color: rgb(120, 166, 168);
+    button {
+        padding: 4px;
+        background-color: rgb(23, 132, 9);
+        border: none;
+        border-radius: 3px;
+    }
+} */
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

@@ -5,6 +5,12 @@ import Userlogin from "./components/Events/Userlogin";
 import UserCv from "./components/CV/UserCv/UserCV";
 import Profile from "./components/Profile/Profile";
 import Dice from "./components/Dice/Dice";
+import Employees from "./components/Employees/Employees";
+import NewEmployees from "./components/NewEmployees/NewEmployees";
+import Splide from "@splidejs/splide";
+import Card from "./components/Card/Card";
+import Counter from "./components/Counter/Counter";
+import Filter from "./components/Filter/Filter";
 
 function App() {
   return (
@@ -14,7 +20,13 @@ function App() {
       {/* <Userlogin/> */}
       {/* <UserCv /> */}
       {/* <Profile/> */}
-      <Dice/>
+      {/* <Dice/> */}
+      {/* <Employees/> */}
+      {/* <NewEmployees/> */}
+      {/* <Splide/> */}
+      {/* <Card/> */}
+      {/* <Counter/> */}
+      <Filter/>
     </>
   );
 }
